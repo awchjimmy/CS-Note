@@ -2,4 +2,4 @@
 
 ---
 
-1.2 Start a New App from Scratch
+1.2 Start a New App from Scratch [READ]
