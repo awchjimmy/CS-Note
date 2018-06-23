@@ -1,16 +1,13 @@
 ### The Basics
 - 1.1 Top Ten Best Practices [READ]
-- 1.2 Start a New App from Scratch <div style="color: red;">[DONE]</div>
+- 1.2 Start a New App from Scratch [DONE]  
 - 1.3 Separating Development and Production Environments [DONE]
 - 1.4 Importing Firebase Modules [READ]
 - 1.5 Deployment to Firebase Hosting [DONE]
 
 ### Cloud Firestore
 - 2.0 Cloud Firestore versus Realtime Database [READ]
-
----
-
-- 2.1 Data Structuring
+- 2.1 Data Structuring [READ]  
 - 2.2 Collection Retrieval
 - 2.3 Document Retrieval
 - 2.4 Include Document Ids with a Collection
