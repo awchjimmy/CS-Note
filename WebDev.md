@@ -10,3 +10,8 @@
 ### Auth
 - Authenticate your Firebase users with Instagram -  
 https://firebase.googleblog.com/2016/10/authenticate-your-firebase-users-with.html
+
+### VS Code
+
+```M + /``` toggle comment
+
