@@ -11,6 +11,9 @@
 - Authenticate your Firebase users with Instagram -  
 https://firebase.googleblog.com/2016/10/authenticate-your-firebase-users-with.html
 
+- OAuth2 Python Example -  
+https://github.com/reddit-archive/reddit/wiki/OAuth2-Python-Example
+
 ### VS Code
 
 ```M + /``` toggle comment
