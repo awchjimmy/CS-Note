@@ -8,6 +8,9 @@
 ```
 
 ### Auth
+- Token Authentication: The Secret to Scalable User Management -  
+https://stormpath.com/blog/token-authentication-scalable-user-mgmt
+
 - Authenticate your Firebase users with Instagram -  
 https://firebase.googleblog.com/2016/10/authenticate-your-firebase-users-with.html
 
