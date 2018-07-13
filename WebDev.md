@@ -24,3 +24,8 @@ https://github.com/reddit-archive/reddit/wiki/OAuth2-Python-Example
 | ```M + /``` | toggle comment |
 | ```:%s/oldText/newText/g``` | global replace (vim) |
 
+### CLI Quick Tips
+| Command / Partial Command | description | example |
+| ---- | ---- | ---- |
+| !! | previous input command | sudo !! |
+| - | standard input | cat hello.txt \| diff world.txt - |
