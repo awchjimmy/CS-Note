@@ -19,5 +19,8 @@ https://github.com/reddit-archive/reddit/wiki/OAuth2-Python-Example
 
 ### VS Code
 
-```M + /``` toggle comment
+| key | description |
+| ---- | ---- |
+| ```M + /``` | toggle comment |
+| ```:%s/oldText/newText/g``` | global replace (vim) |
 
