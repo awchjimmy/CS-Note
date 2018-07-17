@@ -8,6 +8,9 @@
 ```
 
 ### Auth
+- OAuth 2.0, OpenID Connect and JWT – What are they and why do you care? - Pt1 -  
+https://communities.ca.com/community/ca-security/ca-single-sign-on/blog/2016/04/29/oauth-openid-connect-and-jwt-what-are-they-and-why-do-you-care-part-1-of-2
+
 - Token Authentication: The Secret to Scalable User Management -  
 https://stormpath.com/blog/token-authentication-scalable-user-mgmt
 
