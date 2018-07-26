@@ -20,6 +20,9 @@ https://firebase.googleblog.com/2016/10/authenticate-your-firebase-users-with.ht
 - OAuth2 Python Example -  
 https://github.com/reddit-archive/reddit/wiki/OAuth2-Python-Example
 
+- 跟我学Shiro -  
+http://jinnianshilongnian.iteye.com/blog/2018398
+
 ### VS Code
 
 | key | description |
