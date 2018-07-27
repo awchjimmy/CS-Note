@@ -7,13 +7,17 @@
 3. Restart Chrome
 ```
 
-### Auth
+### Auth Background Knowledge
 - OAuth 2.0, OpenID Connect and JWT – What are they and why do you care? - Pt1 -  
 https://communities.ca.com/community/ca-security/ca-single-sign-on/blog/2016/04/29/oauth-openid-connect-and-jwt-what-are-they-and-why-do-you-care-part-1-of-2
 
 - Token Authentication: The Secret to Scalable User Management -  
 https://stormpath.com/blog/token-authentication-scalable-user-mgmt
 
+- https://auth0.com/blog/the-difference-between-wam-and-idm/ -  
+https://auth0.com/blog/the-difference-between-wam-and-idm/
+
+### Auth Implementation
 - Authenticate your Firebase users with Instagram -  
 https://firebase.googleblog.com/2016/10/authenticate-your-firebase-users-with.html
 
@@ -22,6 +26,7 @@ https://github.com/reddit-archive/reddit/wiki/OAuth2-Python-Example
 
 - 跟我学Shiro -  
 http://jinnianshilongnian.iteye.com/blog/2018398
+
 
 ### VS Code
 
