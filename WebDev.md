@@ -27,6 +27,9 @@ https://github.com/reddit-archive/reddit/wiki/OAuth2-Python-Example
 - 跟我学Shiro -  
 http://jinnianshilongnian.iteye.com/blog/2018398
 
+- Control Access with Custom Claims and Security Rules -  
+https://firebase.google.com/docs/auth/admin/custom-claims
+
 
 ### VS Code
 
