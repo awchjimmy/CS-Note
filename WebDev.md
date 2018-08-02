@@ -17,6 +17,9 @@ https://stormpath.com/blog/token-authentication-scalable-user-mgmt
 - https://auth0.com/blog/the-difference-between-wam-and-idm/ -  
 https://auth0.com/blog/the-difference-between-wam-and-idm/
 
+- Introduction to JSON Web Tokens -  
+https://jwt.io/introduction/
+
 ### Auth Implementation
 - Authenticate your Firebase users with Instagram -  
 https://firebase.googleblog.com/2016/10/authenticate-your-firebase-users-with.html
