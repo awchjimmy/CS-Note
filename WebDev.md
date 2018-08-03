@@ -33,6 +33,9 @@ http://jinnianshilongnian.iteye.com/blog/2018398
 - Control Access with Custom Claims and Security Rules -  
 https://firebase.google.com/docs/auth/admin/custom-claims
 
+### JS Related
+- A guide to writing asynchronous JavaScript programs -  
+http://callbackhell.com/
 
 ### VS Code
 
