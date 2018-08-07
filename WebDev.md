@@ -37,6 +37,15 @@ https://firebase.google.com/docs/auth/admin/custom-claims
 - A guide to writing asynchronous JavaScript programs -  
 http://callbackhell.com/
 
+### Handy Tools
+- ngrok - secure introspectable tunnels to localhost -  
+https://ngrok.com/download
+
+- localtunnel - expose yourself -  
+```
+$ sudo npm install localtunnel -g
+```
+
 ### VS Code
 
 | key | description |
