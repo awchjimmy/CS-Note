@@ -61,3 +61,4 @@ https://www.jsdelivr.com/
 | ---- | ---- | ---- |
 | !! | previous input command | sudo !! |
 | - | standard input | cat hello.txt \| diff world.txt - |
+| wget | wget download | wget -O fname.mp4 https://www.example.com/video.mp4 |
