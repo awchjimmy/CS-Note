@@ -18,3 +18,8 @@ keywords: ssh local port forwarding
 $ bin/add-user-keycloak.sh -r master -u <username> -p <password>
 ```
 ref: https://www.keycloak.org/docs/4.2/server_admin/
+
+---
+
+### Creating a Realm and User
+ref: https://www.keycloak.org/docs/latest/getting_started/index.html#creating-a-realm-and-user
