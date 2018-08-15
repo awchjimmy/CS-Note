@@ -11,3 +11,9 @@
 # e.g.
 $ ssh -L 8080:localhost:8080 -i path/to/key.pem ubuntu@example.com
 ```
+
+### Create Admin Account
+```
+$ bin/add-user-keycloak.sh -r master -u <username> -p <password>
+```
+ref: https://www.keycloak.org/docs/4.2/server_admin/
