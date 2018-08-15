@@ -11,6 +11,7 @@
 # e.g.
 $ ssh -L 8080:localhost:8080 -i path/to/key.pem ubuntu@example.com
 ```
+keywords: ssh local port forwarding
 
 ### Create Admin Account
 ```
