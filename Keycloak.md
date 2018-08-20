@@ -1,6 +1,24 @@
+### 簡單統整
+
+#### 完成
+##### Keycloak
+- 本地安裝 keycloak
+- username / password 帳號管理
+- role / group 角色群組 權限設定
+##### Nodejs (Optional)
+- username / password 登入登出
+- role / group 權限應用
+
+#### 未完成
+- http -> https
+- 第三方 google 整合
+- 第三方 fb 整合
+- 防護 Java app
+---
+
 ### Environment Setup
 - Ubuntu 16.04
-- Keycloak 4.2.1.Final
+- Keycloak 4.3.0.Final
 - openjdk-8-jdk
 
 ### SSH Tunnel for Administrative tasks
