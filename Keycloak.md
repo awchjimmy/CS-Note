@@ -16,6 +16,7 @@
 - 防護 Java app
 - stateless token-based system
 - 第一次從第三方登入時，註冊流程自動化
+- External Database, e.g. MySQL
 
 ---
 
