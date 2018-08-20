@@ -5,13 +5,13 @@
 - 本地安裝 keycloak
 - username / password 帳號管理
 - role / group 角色群組 權限設定
+- 第三方 google 整合
 ##### Nodejs (Optional)
 - username / password 登入登出
 - role / group 權限應用
 
 #### 未完成
 - http -> https
-- 第三方 google 整合
 - 第三方 fb 整合
 - 防護 Java app
 - stateless token-based system 
@@ -42,6 +42,9 @@ ref: https://www.keycloak.org/docs/4.2/server_admin/
 
 ### Creating a Realm and User
 ref: https://www.keycloak.org/docs/latest/getting_started/index.html#creating-a-realm-and-user
+
+### Identity Brokering (Google)
+ref: https://www.keycloak.org/docs/latest/server_admin/index.html#google
 
 ---
 
