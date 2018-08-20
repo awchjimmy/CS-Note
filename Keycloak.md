@@ -14,7 +14,9 @@
 #### 未完成
 - http -> https
 - 防護 Java app
-- stateless token-based system 
+- stateless token-based system
+- 第一次從第三方登入時，註冊流程自動化
+
 ---
 
 ### Environment Setup
@@ -43,8 +45,11 @@ ref: https://www.keycloak.org/docs/4.2/server_admin/
 ### Creating a Realm and User
 ref: https://www.keycloak.org/docs/latest/getting_started/index.html#creating-a-realm-and-user
 
-### Identity Brokering (Google)
+### Identity Brokering
+- Google
 ref: https://www.keycloak.org/docs/latest/server_admin/index.html#google
+- Facebook
+ref: https://www.keycloak.org/docs/latest/server_admin/index.html#facebook
 
 ---
 
