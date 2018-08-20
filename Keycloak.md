@@ -13,7 +13,7 @@ $ ssh -L 8080:localhost:8080 -i path/to/key.pem ubuntu@example.com
 ```
 keywords: ```ssh local port forwarding```
 
-### Create Admin Account
+### Creating an Admin Account
 ```
 $ bin/add-user-keycloak.sh -r master -u <username> -p <password>
 ```
@@ -23,3 +23,10 @@ ref: https://www.keycloak.org/docs/4.2/server_admin/
 
 ### Creating a Realm and User
 ref: https://www.keycloak.org/docs/latest/getting_started/index.html#creating-a-realm-and-user
+
+---
+
+### Securing Node App
+ref: https://www.keycloak.org/docs/latest/securing_apps/index.html#_nodejs_adapter  
+ref: https://github.com/keycloak/keycloak-nodejs-connect/blob/master/example/index.js  
+PS: It's a STATEFUL solution, so we must setup some kind of memory store. e.g. express-session. Currently, not sure how to change to a STATELESS one.
