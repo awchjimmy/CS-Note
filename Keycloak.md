@@ -6,13 +6,13 @@
 - username / password 帳號管理
 - role / group 角色群組 權限設定
 - 第三方 google 整合
+- 第三方 fb 整合
 ##### Nodejs (Optional)
 - username / password 登入登出
 - role / group 權限應用
 
 #### 未完成
 - http -> https
-- 第三方 fb 整合
 - 防護 Java app
 - stateless token-based system 
 ---
