@@ -14,6 +14,7 @@
 - 第三方 google 整合
 - 第三方 fb 整合
 - 防護 Java app
+- stateless token-based system 
 ---
 
 ### Environment Setup
