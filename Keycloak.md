@@ -47,10 +47,10 @@ ref: https://www.keycloak.org/docs/4.2/server_admin/
 ref: https://www.keycloak.org/docs/latest/getting_started/index.html#creating-a-realm-and-user
 
 ### Identity Brokering
-- Google
-ref: https://www.keycloak.org/docs/latest/server_admin/index.html#google
-- Facebook
-ref: https://www.keycloak.org/docs/latest/server_admin/index.html#facebook
+- Google -
+https://www.keycloak.org/docs/latest/server_admin/index.html#google
+- Facebook -
+https://www.keycloak.org/docs/latest/server_admin/index.html#facebook
 
 ---
 
@@ -81,3 +81,7 @@ https://www.howtoforge.com/setting-changing-resetting-mysql-root-passwords
 https://www.keycloak.org/docs/latest/server_installation/index.html#_database
 - Keycloak MySQL Setup Example -  
 https://github.com/Codingpedia/codingmarks-api/wiki/Keycloak-MySQL-Setup
+
+### Frontend Customization
+- [KEYCLOAK-AUTH] - Improve Handling for Access Denied Responses -  
+https://issues.jboss.org/browse/RAINCATCH-934
