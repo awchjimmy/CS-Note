@@ -68,3 +68,16 @@ ref: https://www.keycloak.org/docs/latest/server_admin/index.html#groups
 app.get( '/extra-special', keycloak.protect('other-app:special'), extraSpecialHandler );
 ```
 ref: https://www.keycloak.org/docs/latest/securing_apps/index.html#usage-2
+
+---
+
+### External Database MySQL (In Progress)
+
+- Install MySQL -  
+https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-16-04
+- Change / Reset MySQL Password -  
+https://www.howtoforge.com/setting-changing-resetting-mysql-root-passwords
+- Keycloak's Official External RDBMS Docs -  
+https://www.keycloak.org/docs/latest/server_installation/index.html#_database
+- Keycloak MySQL Setup Example -  
+https://github.com/Codingpedia/codingmarks-api/wiki/Keycloak-MySQL-Setup
