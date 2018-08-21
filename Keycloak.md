@@ -85,3 +85,9 @@ https://github.com/Codingpedia/codingmarks-api/wiki/Keycloak-MySQL-Setup
 ### Frontend Customization
 - [KEYCLOAK-AUTH] - Improve Handling for Access Denied Responses -  
 https://issues.jboss.org/browse/RAINCATCH-934
+```js
+Keycloak.prototype.accessDenied = function (request, response) {
+  response.status(403);
+  response.end('Access denied');
+};
+```
