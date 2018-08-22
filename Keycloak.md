@@ -17,6 +17,7 @@
 - stateless token-based system
 - 第一次從第三方登入時，註冊流程自動化
 - External Database, e.g. MySQL
+- Dockerize Application
 
 ---
 
@@ -58,14 +59,23 @@ https://www.keycloak.org/docs/latest/server_admin/index.html#facebook
 ref: https://www.keycloak.org/docs/latest/securing_apps/index.html#_nodejs_adapter  
 ref: https://github.com/keycloak/keycloak-nodejs-connect/blob/master/example/index.js  
 PS: It's a STATEFUL solution, so we must setup some kind of memory store. e.g. express-session. Currently, not sure how to change to a STATELESS one.
+```js
+app.get( '/extra-special',
+  keycloak.protect(),
+  function (req, res) {
+  });
+```
 
 ### Role-based Authorization
 #### Role & Group Setup
 ref: https://www.keycloak.org/docs/latest/server_admin/index.html#roles  
 ref: https://www.keycloak.org/docs/latest/server_admin/index.html#groups  
 #### App(Client) Role Syntax
-```
-app.get( '/extra-special', keycloak.protect('other-app:special'), extraSpecialHandler );
+```js
+app.get( '/extra-special',
+  keycloak.protect('other-app:special'),
+  function extraSpecialHandler(req, res) {
+  });
 ```
 ref: https://www.keycloak.org/docs/latest/securing_apps/index.html#usage-2
 
